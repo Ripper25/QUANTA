@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/QUANTA/static/js/main.a2676558.js",
+    "main.js": "/QUANTA/static/js/main.fdce7c08.js",
     "index.html": "/QUANTA/index.html",
-    "main.a2676558.js.map": "/QUANTA/static/js/main.a2676558.js.map"
+    "main.fdce7c08.js.map": "/QUANTA/static/js/main.fdce7c08.js.map"
   },
   "entrypoints": [
-    "static/js/main.a2676558.js"
+    "static/js/main.fdce7c08.js"
   ]
 }
